@@ -1,4 +1,5 @@
 import nextcord
+import asyncio
 from nextcord.ext import commands
 
 client = commands.Bot(command_prefix="!")
